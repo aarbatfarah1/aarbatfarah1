@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **-SuperMarket-Data-Analysis**
 
-- 👯 I’m looking to collaborate on **Image search assistant**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/farah-aarbat-43a110244/](https://www.linkedin.com/in/farah-aarbat-43a110244/)
 
 <h3 align="left">Connect with me:</h3>
