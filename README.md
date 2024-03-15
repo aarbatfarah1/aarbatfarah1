@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Engineering student at ENSIAS</h3>
 <img align= "right" alt="coding" width="300" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47pax09fjx82hj05hkfju05kicoyhb4wblvtzto4q3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **-SuperMarket-Data-Analysis**
+- 🔭 I’m currently working on **Sugarcane-Leaf-Disease**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/farah-aarbat-43a110244/](https://www.linkedin.com/in/farah-aarbat-43a110244/)
 
